@@ -1,0 +1,41 @@
+Privacy Policy for Nearby
+Effective Date: [08-07-2025]
+1. Introduction
+Nearby is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application Nearby.
+2. Information We Collect
+a. Personal Information
+Account Information: When you sign up, we collect your email address and other profile information you provide (such as username, full name, and profile photo).
+Authentication: We use Supabase for authentication and user management.
+b. Location Data
+Precise Location: With your permission, we collect your device’s location to provide location-based features (such as showing nearby events and challenges).
+Usage: Location data is only used while the app is in use and is not shared with third parties except as necessary to provide app functionality.
+c. Device Permissions
+The app may request access to:
+Location: To show nearby events and challenges.
+Camera and Photos: To allow you to upload a profile photo or event images.
+Notifications: To send you updates about events, challenges, and other app activity.
+d. Usage Data
+We may collect information about how you use the app, such as feature usage, crash logs, and device information, to improve the app.
+3. How We Use Your Information
+We use your information to:
+Provide and maintain the app’s core features.
+Personalize your experience.
+Communicate with you about updates, events, and challenges.
+Improve app performance and security.
+Comply with legal obligations.
+4. How We Share Your Information
+We do not sell your personal information. We may share your information:
+With service providers (such as Supabase and Google/Firebase) to enable app functionality.
+If required by law or to protect rights, property, or safety.
+5. Data Security
+We use industry-standard security measures to protect your data. However, no method of transmission or storage is 100% secure.
+6. Your Choices
+Permissions: You can control app permissions (location, camera, notifications) in your device settings.
+Account: You may update or delete your account at any time from within the app.
+7. Children’s Privacy
+Our app is not intended for children under 13. We do not knowingly collect data from children under 13.
+8. Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the effective date and, if significant, by in-app notification.
+9. Contact Us
+If you have questions or concerns about this Privacy Policy, contact us at:
+Gmail : adityavkharat@gmail.com
